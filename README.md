@@ -49,12 +49,10 @@ Explain the "Why" behind this project. What problem does it solve? What was your
 Installation
 Clone the repo
 
-Bash
 
 git clone [https://github.com/github_username/repo_name.git](https://github.com/github_username/repo_name.git)
 Install NPM packages
 
-Bash
 
 npm install
 Enter your API keys in .env
@@ -62,6 +60,8 @@ Enter your API keys in .env
 JavaScript
 
 API_KEY = 'YOUR_API_KEY';
+
+
 💡 Challenges & Solutions
 This is the most important part for Recruiters!
 
